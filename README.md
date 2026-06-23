@@ -58,7 +58,7 @@ End-to-end test automation with Selenium/NightwatchJS and performance testing wi
 
 ---
 
-## 🎯 Open To
+## 🎯 Interested In
 
 I'm interested in roles at the intersection of engineering and impact — particularly:
 
