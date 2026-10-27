@@ -22,7 +22,7 @@ I'm at my best in collaborative environments — mentoring engineers, sharing wh
 `Java` `Go` `TypeScript` `JavaScript` `SQL`
 
 **Frameworks & Libraries**
-`Spring Boot` `Reactive/Webflux` `GraphQL` `VueJS`
+`Spring Boot` `Reactive/Webflux` `GraphQL`
 
 **Infrastructure & DevOps**
 `Kubernetes` `Docker` `Terraform` `Helm` `ArgoCD` `CircleCI`
